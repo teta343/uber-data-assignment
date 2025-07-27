@@ -6,7 +6,7 @@ Course: INSY 8413 – Introduction to Big Data Analytics
 
 Instructor: Prof. Eric
 
-Students: Maniraguha Teta, Kevin
+Students: Teta, Kevin
 
 Date: July 2025
 
@@ -110,6 +110,4 @@ Use the screenshots for quick reference to key visuals.
 Contact
 For questions or further information, please contact:
 
-Maniraguha Teta
-
-Kevin
+Teta Kevin
