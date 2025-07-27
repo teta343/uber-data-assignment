@@ -61,7 +61,7 @@ Scatter plot showing the positive correlation between fare and distance.
 Busiest Periods:
 
 Visualizations highlighting peak hours, months, and segmentation of peak vs. off-peak demand.
-https://screenshots/busiest_periods.png
+![](./busiest.png)
 
 Dashboard Design:
 Layout: KPIs at the top, trends and distributions in the center, filters at the bottom.
